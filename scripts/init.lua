@@ -35,7 +35,7 @@ return {
   id = "NamesAreHard - Rift Taunters",
   name = "Rift Taunters",
 	icon = "modIcon.png",
-	description = "Rift Walkers got an upgrade! Instead of displacement, Rift Taunters taunt their enemies, with a small health upgrade to offset.",
+	description = "Rift Walkers got an upgrade! Or, maybe not. Instead of displacement, Rift Taunters taunt their enemies, with a small health upgrade to offset.",
 	modApiVersion = "2.9.1",
 	gameVersion = "1.2.83",
 	version = "1.1.0",
